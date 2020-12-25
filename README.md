@@ -6,7 +6,7 @@ Kelvin is a simple color selector that generates swatches of warmer and cooler c
 
 ![Hue variation](images/Hue.png)
 
-Your current foreground color is dead center. Cool variations of that color are to the left, warm variations are to the right.
+Your current foreground color is dead center. Cool variations of that color are to the left, warm variations are to the right. Click on any swatch to pick that color.
 
 ![Brightness variation](images/Brightness.png)
 
@@ -24,10 +24,14 @@ I made extensive use of [Vasiliy Kuznetsov's Coldwarm plugin](https://github.com
 
 This requires Photoshop 2020 or newer. It _might_ work on Photoshop 2019, but that's not tested.
 
-Download the latest `Kelvin.ZXP` file from the releases page. Install using your preferred ZXP manager.
+Download the latest `Kelvin.zxp` file from the releases page. It is signed with a self-signed certification, so it _should_ install without issue, but it might raise a warning. You can install it manually, or by using your preferred ZXP manager.
 
 If you'd like to install manually, clone this repository to your `Adobe/CEP/extensions` folder, and enable Photoshop's debug mode.
 
 [Where to plonk my Adobe extensions?](https://creative-scripts.com/where-to-plonk-my-extensions/)
 
 [Setting Cep Debug Mode and Log Level the Easy Way](https://creative-scripts.com/setting-cep-debug-and-log-level/)
+
+## License
+
+All of my code is released under the GNU GPLv3 license. You're free to modify things as you see fit. However, `CSInterface.js` was made by Adobe, and is subject to whatever their license is.
