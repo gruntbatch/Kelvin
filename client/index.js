@@ -45,7 +45,6 @@ function photoshopEventCallback(event) {
 }
 
 function onClickEventCallback(event) {
-    console.log(event);
     dataset = event.currentTarget.dataset;
     setForegroundColor(dataset.h, dataset.s, dataset.b);
 }
