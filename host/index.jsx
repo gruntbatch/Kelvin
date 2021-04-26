@@ -20,7 +20,9 @@ function getForegroundHSB() {
 }
 
 function setForegroundHSB(h, s, b) {
-    app.foregroundColor.hsb.hue = h;
-    app.foregroundColor.hsb.saturation = s;
-    app.foregroundColor.hsb.brightness = b;
+    var color = new SolidColor();
+    color.hsb.hue = h;
+    color.hsb.saturation = s;
+    color.hsb.brightness = b;
+    app.foregroundColor = color;
 }
