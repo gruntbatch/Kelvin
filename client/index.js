@@ -18,9 +18,9 @@ const CELL_COUNT = 5;
 const CELL_WIDTH = 100 / (1 /* saturation bar */ + CELL_COUNT);
 const CELL_HEIGHT = 100 / (CELL_COUNT);
 
-const H_STEP = 6;
-const S_STEP = 8;
-const B_STEP = 3;
+const H_STEP = 4;
+const S_STEP = 2;
+const B_STEP = 2;
 
 // Establish a line of communication with the host
 var csInterface = new CSInterface();
