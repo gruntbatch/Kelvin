@@ -16,6 +16,10 @@ Color variants desaturate as they brighten, and saturate as they darken.
 
 Sometimes you want your colors to be bright _and_ saturated. In this special column, color variants saturate as they brighten, and desaturate as they darken. Again, your foreground color is dead center.
 
+Like this project? [Contribute a coffee to the development fund.](https://github.com/gruntbatch/Kelvin)
+
+Want a better color wheel? [Check out Color2.](https://ko-fi.com/L3L36L4P0)
+
 ## Inspiration
 
 I made extensive use of [Vasiliy Kuznetsov's Coldwarm plugin](https://github.com/vasiliy-kuznetsov/Coldwarm) back in the CS6 days, and wanted a version that would run on modern Photoshop.
