@@ -16,9 +16,9 @@ Color variants desaturate as they brighten, and saturate as they darken.
 
 Sometimes you want your colors to be bright _and_ saturated. In this special column, color variants saturate as they brighten, and desaturate as they darken. Again, your foreground color is dead center.
 
-Like this project? [Contribute a coffee to the development fund.](https://github.com/gruntbatch/Kelvin)
+Like this project? [Contribute a coffee to the development fund.](https://ko-fi.com/L3L36L4P0)
 
-Want a better color wheel? [Check out Color2.](https://ko-fi.com/L3L36L4P0)
+Want a better color wheel? [Check out Color2.](https://github.com/gruntbatch/Color2)
 
 ## Inspiration
 
