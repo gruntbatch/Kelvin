@@ -28,7 +28,7 @@ I made extensive use of [Vasiliy Kuznetsov's Coldwarm plugin](https://github.com
 
 This requires Photoshop 2020 or newer. It _might_ work on Photoshop 2019, but that's not tested.
 
-Download the latest `Kelvin.zxp` file from the releases page. It is signed with a self-signed certification, so it _should_ install without issue, but it might raise a warning. You can install it manually, or by using your preferred ZXP manager.
+Download the [latest `Kelvin.zxp` file](https://github.com/gruntbatch/Kelvin/releases/latest) from the releases page. It is signed with a self-signed certification, so it _should_ install without issue, but it might raise a warning. You can install it manually, or by using your preferred ZXP manager.
 
 If you'd like to install manually, clone this repository to your `Adobe/CEP/extensions` folder, and enable Photoshop's debug mode.
 
