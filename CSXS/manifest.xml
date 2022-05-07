@@ -2,12 +2,12 @@
 <ExtensionManifest ExtensionBundleId="com.github.gruntbatch.kelvin" ExtensionBundleVersion="1.0.0" Version="9.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <ExtensionList>
-        <Extension Id="com.github.gruntbatch.kelvin.panel" Version="1.0.0" />
+        <Extension Id="com.github.gruntbatch.kelvin.panel" Version="1.0.2" />
     </ExtensionList>
     <ExecutionEnvironment>
         <HostList>
-            <Host Name="PHSP" Version="21" />
-            <Host Name="PHXS" Version="21" />
+            <Host Name="PHSP" Version="20" />
+            <Host Name="PHXS" Version="20" />
         </HostList>
         <LocaleList>
             <Locale Code="All" />
